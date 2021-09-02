@@ -115,7 +115,6 @@ export const Looper = () => {
                     </div>
                 </div>
             })}
-
         </div>
     )
 }
