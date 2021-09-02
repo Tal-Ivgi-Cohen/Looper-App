@@ -1,4 +1,4 @@
-# Looper App by Tal Cohen
+# Looper App
 React.js is used to build "Looper" as a SPA (Single Page App).
 
 The application consists of a Header and Footer to define the correct structure of the application, and in Main, there is the Looper component.
