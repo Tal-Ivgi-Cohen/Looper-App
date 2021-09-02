@@ -1,0 +1,16 @@
+//SETUP
+@import './setup/variables.scss';
+@import './setup/mixins.scss';
+@import './setup/functions.scss';
+
+//BASICS
+@import './basics/base.scss';
+@import './basics/helpers.scss';
+@import './basics/layout.scss';
+
+//CMPS
+@import './cmps/header.scss';
+@import './cmps/footer.scss';
+
+//PAGES
+@import './pages/looper.scss';

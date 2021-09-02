@@ -1,0 +1,49 @@
+.looper-container {
+    height: 70vh;
+    color: whitesmoke;
+
+    .actions {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        button {
+            margin: 15px;
+            color: white;
+            width: 70px;
+            height: 50px;
+            border: solid 3px $clr6;
+            background-color: inherit;
+            border-radius: 30%;
+            margin: 0px 8px 8px 0px;
+            margin-top: 20px;
+            .play-btn, .stop-btn {
+                width: 50%;
+                height: 50%;
+            }
+        }
+    }
+
+    .drum-section {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 10px;
+        .title {
+            max-width: 200px;
+        }
+        .boxes {
+            max-width: 100px;
+            .box {
+                border: 3px solid white;
+                height: 30px;
+                width: 30px;
+                margin-right: 10px;
+                &.fill {
+                    border: 3px solid rgb(55, 0, 255);
+                }
+                &.on {
+                    background-color: rgb(130, 240, 216);
+                }
+            }
+        }
+    }
+}
