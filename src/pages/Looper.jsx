@@ -102,7 +102,7 @@ export const Looper = () => {
                 </button>
             </div>
             {state.map((loop, i) => {
-                return <div className="drum-section flex">
+                return <div className="loops-section flex">
                     <div className="title">
                         <p>{names[i]}</p>
                     </div>

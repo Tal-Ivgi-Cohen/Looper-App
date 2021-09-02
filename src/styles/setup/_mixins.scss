@@ -1,5 +1,4 @@
 /* Breakpoint mixins */
-
 @mixin for-mobile-layout {
     @media (max-width: $mobile-breakpoint) {
         @content;
@@ -17,7 +16,6 @@
         @content;
     }
 }
-
 
 @mixin for-wide-layout {
     @media (min-width: $wide-breakpoint) {
