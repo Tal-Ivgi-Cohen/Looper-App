@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Looper-App/static/css/main.9b78ef1d.chunk.css",
+    "main.js": "/Looper-App/static/js/main.95d054da.chunk.js",
+    "main.js.map": "/Looper-App/static/js/main.95d054da.chunk.js.map",
+    "runtime-main.js": "/Looper-App/static/js/runtime-main.e4d2e53c.js",
+    "runtime-main.js.map": "/Looper-App/static/js/runtime-main.e4d2e53c.js.map",
+    "static/js/2.9ec02dbb.chunk.js": "/Looper-App/static/js/2.9ec02dbb.chunk.js",
+    "static/js/2.9ec02dbb.chunk.js.map": "/Looper-App/static/js/2.9ec02dbb.chunk.js.map",
+    "index.html": "/Looper-App/index.html",
+    "static/css/main.9b78ef1d.chunk.css.map": "/Looper-App/static/css/main.9b78ef1d.chunk.css.map",
+    "static/js/2.9ec02dbb.chunk.js.LICENSE.txt": "/Looper-App/static/js/2.9ec02dbb.chunk.js.LICENSE.txt",
+    "static/media/Bass-Warwick-heavy.52c24c81.mp3": "/Looper-App/static/media/Bass-Warwick-heavy.52c24c81.mp3",
+    "static/media/Groove-Tanggu.3e1411b4.mp3": "/Looper-App/static/media/Groove-Tanggu.3e1411b4.mp3",
+    "static/media/Maze-Politics.2d08c654.mp3": "/Looper-App/static/media/Maze-Politics.2d08c654.mp3",
+    "static/media/PAS-GROOVE.f77c6da4.mp3": "/Looper-App/static/media/PAS-GROOVE.f77c6da4.mp3",
+    "static/media/Silent-Star.f2d668af.mp3": "/Looper-App/static/media/Silent-Star.f2d668af.mp3",
+    "static/media/Stompy-Slosh.27bdc145.mp3": "/Looper-App/static/media/Stompy-Slosh.27bdc145.mp3",
+    "static/media/electric-guitar.230fcab8.mp3": "/Looper-App/static/media/electric-guitar.230fcab8.mp3",
+    "static/media/future-funk.5eb417fc.mp3": "/Looper-App/static/media/future-funk.5eb417fc.mp3",
+    "static/media/styles.scss": "/Looper-App/static/media/music.6ea855d5.png",
+    "static/media/play.76afe65f.png": "/Looper-App/static/media/play.76afe65f.png",
+    "static/media/stop.43d1f816.png": "/Looper-App/static/media/stop.43d1f816.png",
+    "static/media/stutter-breakbeats.37c82282.mp3": "/Looper-App/static/media/stutter-breakbeats.37c82282.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d2e53c.js",
+    "static/js/2.9ec02dbb.chunk.js",
+    "static/css/main.9b78ef1d.chunk.css",
+    "static/js/main.95d054da.chunk.js"
+  ]
+}
